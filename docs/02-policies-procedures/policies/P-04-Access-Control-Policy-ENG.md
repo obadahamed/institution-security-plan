@@ -1,15 +1,14 @@
 Access Control Policy
 
 ##
- 
-| ------ | --------------- |
+| | |
+| --- | --- |
 | **Policy Number** | P-04 |
 | **Version** | 1.0 |
 | **Release Date** | 02/05/2026 |
-| **Next Revision Date** | 02/05/2027 |
+| **Next Review Date** | 02/05/2027 |
 | **Policy Owner** | Information Security Manager |
 | **Classification** | Internal |
-
 ---
 
 ## 1. Purpose
