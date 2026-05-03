@@ -3,19 +3,12 @@
 ##
 
 | | |
-
 | -------------------------- | ------------------ |
-
 | **Policy Number** | P-03 |
-
 | **Version** | 1.0 |
-
 | **Release Date** | 02/05/2026 |
-
 | **Next Revision Date** | 02/05/2027 |
-
 | **Policy Owner** | Information Security Manager |
-
 | **Classification** | Internal |
 
 ---
@@ -51,13 +44,9 @@ This policy applies to all Al Noor Bank employees across all departments and job
 ## 4. Responsibilities
 
 | Entity | Responsibility |
-
 | ----------------------------- | ------------------------------------------------------------------------------------- |
-
 | **IT/Security Department** | Responsible for providing the necessary tools, configuring technical settings, and providing technical support to users. |
-
 | **Managers** | Ensuring their teams adhere to the policy and do not exceed its limits. |
-
 | **All Employees** | Responsible for setting passwords for their accounts |
 
 
