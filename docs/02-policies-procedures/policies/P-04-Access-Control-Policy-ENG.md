@@ -56,19 +56,11 @@ This policy covers all of the organization's technology assets, including:
 ---
 
 ## 4. Responsibilities
-
 | Entity | Responsibility |
-
-| -------|--------------- |
-
-| Data Owners | Determine the data classification level and who has access to it. |
-
-| **IT Management** | Technically enforce privileges and immediately delete accounts of resigning or transferred employees. |
-
-| **Employees** | Responsible for setting up their own credential protection and not disclosing passwords or leaving devices unlocked and unattended. |
-
-| | |
-
+| ------ | -------------- |
+| Data Owners | Determine data classification level and who has access. |
+| IT Management | Enforce privileges technically and immediately remove accounts of resigned or transferred employees. |
+| Employees | Protect their credentials and never leave devices unlocked and unattended. |
 ---
 
 ## 5. Penalties
