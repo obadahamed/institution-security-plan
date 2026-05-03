@@ -55,9 +55,7 @@ Keep **3** copies of the data, on two **2** types of media, with one **1** copy 
 ## 4. Responsibilities
 
 | Entity | Responsibility |
-
 | ------------------------- | -------------------------------------- |
-
 | **IT Management** | Backup and Restore Implementation |
 
 
