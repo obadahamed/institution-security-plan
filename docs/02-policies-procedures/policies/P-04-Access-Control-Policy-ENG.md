@@ -2,7 +2,7 @@ Access Control Policy
 
 ##
 
-| | |
+|       |        |
 
 | -------------------------- | ------------------ |
 
@@ -69,7 +69,6 @@ This policy covers all of the organization's technology assets, including:
 
 | | |
 
-| | |
 ---
 
 ## 5. Penalties
