@@ -2,20 +2,12 @@ Access Control Policy
 
 ##
  
-
-
-| ------------------| -----|
-
+| ------ | --------------- |
 | **Policy Number** | P-04 |
-
 | **Version** | 1.0 |
-
 | **Release Date** | 02/05/2026 |
-
 | **Next Revision Date** | 02/05/2027 |
-
 | **Policy Owner** | Information Security Manager |
-
 | **Classification** | Internal |
 
 ---
@@ -56,6 +48,7 @@ This policy covers all of the organization's technology assets, including:
 ---
 
 ## 4. Responsibilities
+
 | Entity | Responsibility |
 | ------ | -------------- |
 | Data Owners | Determine data classification level and who has access. |
