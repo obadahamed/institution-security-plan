@@ -43,7 +43,7 @@ This policy applies to all employees and contractors using the organization's te
 | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | IT Department | Responsible for web filtering, monitoring data flow to detect threats, and updating antivirus systems. |
 | Management | Monitor usage reports in case of suspected resource misuse. |
-|Employees | Responsible for the content of messages sent from their accounts and for immediately reporting any suspicious messages received in their inbox. |
+| Employees | Responsible for the content of messages sent from their accounts and for immediately reporting any suspicious messages received in their inbox. |
 
 
 ---
