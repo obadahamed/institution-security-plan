@@ -3,19 +3,12 @@
 ##
 
 | | |
-
 | -------------------------- | ------------------ |
-
 | **Policy Number** | P-02 |
-
 | **Version** | 1.0 |
-
 | **Release Date** | 02/05/2026 |
-
 | **Next Revision Date** | 02/05/2027 |
-
 | **Policy Owner** | Information Security Manager |
-
 | **Classification** | Internal |
 
 ---
@@ -51,13 +44,9 @@ This policy applies to all Noor Bank employees across all departments and job le
 ## 4. Responsibilities
 
 | Entity | Responsibility |
-
 | ----------------------------- | ------------------------------------------------------------------------------------- |
-
 | **IT/Security Department** | Responsible for providing the necessary tools, configuring technical settings, and providing technical support to users. |
-
 | **Managers** | Ensuring that their teams adhere to and comply with the policy. |
-
 | **All employees** | are responsible for setting up the MFA on their accounts. |
 
 
