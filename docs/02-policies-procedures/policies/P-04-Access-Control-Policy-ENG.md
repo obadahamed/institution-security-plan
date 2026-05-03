@@ -59,7 +59,7 @@ This policy covers all of the organization's technology assets, including:
 
 | Entity | Responsibility |
 
-| -------|------------------------------------------------------------------------------------------------------- |
+| -------|--------------- |
 
 | Data Owners | Determine the data classification level and who has access to it. |
 
