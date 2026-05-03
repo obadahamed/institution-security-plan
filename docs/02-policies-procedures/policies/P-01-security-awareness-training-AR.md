@@ -1,5 +1,6 @@
 # سياسة التوعية وتدريب الموظفين على أمن المعلومات
 # Information Security Awareness & Training Policy
+NIST SP 800-12
 
 | | |
 |---|---|
