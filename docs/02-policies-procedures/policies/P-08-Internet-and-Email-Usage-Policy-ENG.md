@@ -39,7 +39,6 @@ This policy applies to all employees and contractors using the organization's te
 ## 4. Responsibilities
 
 | Entity | Responsibility |
-
 | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | IT Department | Responsible for web filtering, monitoring data flow to detect threats, and updating antivirus systems. |
 | Management | Monitor usage reports in case of suspected resource misuse. |
