@@ -75,7 +75,6 @@ These procedures follow the NIST Incident Response Life Cycle:
 | Incident Log | Response Team |
 | Emergency Contact List | IT Team |
 | Incident Analysis Report | Response Team |
-| Network Bandwidth Report | Network Engineer |
 
 ---
 
