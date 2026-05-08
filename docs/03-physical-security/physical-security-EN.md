@@ -106,9 +106,9 @@ Main Physical Media Used
 
 - **Every two to three years:** To conduct a comprehensive and in-depth risk assessment covering the entire infrastructure and technologies in use.
 
-2. Extraordinary Audits (When Triggers Occur)
+### 2. Extraordinary Audits (When Triggers Occur)
 
-### 2. An immediate, off-schedule audit must be conducted in the following situations:
+An immediate, off-schedule audit must be conducted in the following situations:
 
 - **After a security incident:** In the event of theft, a breach, or even an unauthorized entry attempt.
 
