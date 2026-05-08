@@ -108,18 +108,17 @@ Main Physical Media Used
 
 2. Extraordinary Audits (When Triggers Occur)
 
-### 2. An immediate, off-schedule audit must be conducted in the following cases:
+### 2. An immediate, off-schedule audit must be conducted in the following situations:
 
-- **After a security incident:** In the event of theft, intrusion, or even an unauthorized entry attempt.
+- **After a security incident:** In the event of theft, a breach, or even an unauthorized entry attempt.
 
-- **Changes to the facility:** When moving to a new building, undergoing renovations and expansions, or when the CCTV system and locks are changed.
+- **Changes to the facility:** When moving to a new building, carrying out renovations and expansions, or changing the CCTV system and locks.
 
-- **Changes in organizational structure
-Y:** In the event of mass resignations or significant management changes, a review of physical access privileges is necessary.
+- **Changes in Organizational Structure:** In the event of mass resignations or significant management changes, a review of physical access privileges is necessary.
 
 ### 3. Technical Systems Audit (Access Check)
 
-- **Monthly:** It is recommended to test alarm systems and surveillance cameras to ensure they are functioning correctly and without technical malfunctions.
+- **Monthly:** It is recommended to test alarm systems and surveillance cameras to ensure they are functioning correctly and free of technical malfunctions.
 
 - **Quarterly:** Review the lists of employees with access cards and cancel inactive cards or those belonging to employees who have left the company.
 
